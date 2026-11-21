@@ -1,0 +1,6 @@
+{
+  "name": "Mini Inventory Manager",
+  "description": "Sistem Inventori Stok & Peringatan Habis untuk kedai koperasi, kit bengkel, dan bahan mentah kafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
